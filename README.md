@@ -1,10 +1,10 @@
-# 📊 Data Visualization Projects
+# Data Visualization Projects
 
 Welcome to my Data Visualization portfolio! This repository showcases various interactive dashboards and visual analysis projects focused on real-world business scenarios, including sales, employee performance, and purchasing trends.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Apply data visualization principles to real datasets.
 - Derive meaningful insights from structured data.
@@ -13,23 +13,23 @@ Welcome to my Data Visualization portfolio! This repository showcases various in
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Tableau Public**
 - **Power BI**
 
 ---
 
-## 📁 Projects Overview
+## Projects Overview
 
-### 📌 **Tableau Projects**
+### **Tableau Projects**
 - **Sales Dashboard**: An overview of monthly, quarterly, and yearly performance by region and product.
 - **Employee Performance**: Tracks employee KPIs, attendance, and productivity across departments.
 - **Purchase Insights**: Visualizes vendor performance, category trends, and procurement efficiency.
 
 ---
 
-## 📚 Source & Attribution
+## Source & Attribution
 
 - Academic assignments 
 - Internship projects 
@@ -37,14 +37,14 @@ Welcome to my Data Visualization portfolio! This repository showcases various in
 
 ---
 
-## 👩🏽‍💻 Author
+## Author
 
 **Neema Ndanu**  
 [GitHub Profile](https://github.com/NeemaNdanu)
 
 ---
 
-## 📝 License
+## License
 
 This repository is for educational and portfolio purposes. If you'd like to use or reference any part, please give appropriate credit.
 
